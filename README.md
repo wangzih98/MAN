@@ -15,7 +15,7 @@ numpy
 
 ## Data for Experiments
 
-The data can be downloaded in this link.
+The data can be downloaded in this link (https://pan.baidu.com/s/178dmLJS6B8vhuAnkclT9Yw) password：vlyy.
 
 ## Training Your Model
 
@@ -24,5 +24,5 @@ _____________________________
 
 ## Hyperparameters
 
-Some hyper parameters for reproducing the results in the paper are in the `results.txt` file. We follow the paper and keep the best results of corresponding metrics.
+Some hyper parameters for reproducing the results in the paper are in the `mosi_results` file. We follow the paper and keep the best results of corresponding metrics.
 
